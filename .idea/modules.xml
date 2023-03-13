@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Devoir1/Devoir1.iml" filepath="$PROJECT_DIR$/Devoir1/Devoir1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Devoir2/Devoir2.iml" filepath="$PROJECT_DIR$/Devoir2/Devoir2.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/TPs_JEE.iml" filepath="$PROJECT_DIR$/.idea/TPs_JEE.iml" />
     </modules>
   </component>

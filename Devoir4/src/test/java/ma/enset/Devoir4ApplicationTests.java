@@ -1,4 +1,4 @@
-package ma.enset.devoir4;
+package ma.enset;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

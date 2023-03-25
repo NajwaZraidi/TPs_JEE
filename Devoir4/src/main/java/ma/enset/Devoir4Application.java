@@ -17,14 +17,14 @@ public class Devoir4Application {
         SpringApplication.run(Devoir4Application.class, args);
     }
     // l'exection de programme dans CommandLineRunner
-        @Bean
+        //@Bean=> execution de fonction CommandLineRunner
         CommandLineRunner commandLineRunner(PatientRespository patientRespository){
         return  args -> {
             //Insertition des patients
-            patientRespository.save(new Patient(null,"Najwa",new Date(),false,12));
+            patientRespository.save(new Patient(null,"Najwa",new Date(),false,212));
             patientRespository.save(new Patient(null,"Islam",new Date(),true,122));
-            patientRespository.save(new Patient(null,"Khalid",new Date(),true,1));
-            patientRespository.save(new Patient(null,"Hania",new Date(),false,3));
+            patientRespository.save(new Patient(null,"Khalid",new Date(),true,854));
+            patientRespository.save(new Patient(null,"Hania",new Date(),false,300));
 
             //Affiche la liste des patients
             patientRespository.findAll().forEach(p->{

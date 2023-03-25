@@ -8,8 +8,10 @@
       <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/entities/Patient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/repositories/PatientRespository.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/web/PatientController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/editPatients.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/formPatients.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/templates/patients.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../bdd.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/template.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ma/enset/Devoir4Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/enset/Devoir4Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
@@ -73,6 +75,15 @@
     </option>
   </component>
   <component name="RunManager" selected="Spring Boot.Devoir4Application (1)">
+    <configuration name="All in generated-requests" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http">
+      <method v="2" />
+    </configuration>
+    <configuration name="generated-requests | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$APPLICATION_CONFIG_DIR$/scratches/generated-requests.http" index="2" requestIdentifier="#2" runType="Run single request">
+      <method v="2" />
+    </configuration>
+    <configuration name="patients.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Devoir4/templates/patients.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Devoir4Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
       <module name="Devoir4" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="ma.enset.Devoir4Application" />
@@ -96,6 +107,9 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.Devoir4Application (1)" />
+        <item itemvalue="HTTP Request.generated-requests | #2" />
+        <item itemvalue="HTTP Request.All in generated-requests" />
+        <item itemvalue="JavaScript Debug.patients.html" />
       </list>
     </recent_temporary>
   </component>
@@ -115,7 +129,10 @@
       <workItem from="1678797576668" duration="603000" />
       <workItem from="1679225641192" duration="836000" />
       <workItem from="1679247161435" duration="2190000" />
-      <workItem from="1679249454099" duration="14710000" />
+      <workItem from="1679249454099" duration="16947000" />
+      <workItem from="1679434378873" duration="2405000" />
+      <workItem from="1679437970572" duration="7823000" />
+      <workItem from="1679511940021" duration="26681000" />
     </task>
     <task id="LOCAL-00001" summary="Modification au niveau de devoir4">
       <created>1678698250866</created>

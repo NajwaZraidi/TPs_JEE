@@ -7,11 +7,14 @@
     <list default="true" id="6ad7eb1a-bb8d-4df5-8c77-77c19431d606" name="Changes" comment="Modification au niveau de devoir4">
       <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/entities/Patient.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/repositories/PatientRespository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/security/SecurityConfig.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/ma/enset/web/PatientController.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/templates/editPatients.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/templates/formPatients.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/templates/patients.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/templates/template.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Devoir2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Devoir2/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Devoir2/src/main/java/ma/enset/bloking/MultiThreadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Devoir2/src/main/java/ma/enset/bloking/MultiThreadServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ma/enset/Devoir4Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/enset/Devoir4Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
@@ -25,10 +28,13 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-beans/6.0.6/spring-beans-6.0.6-sources.jar!/org/springframework/beans/factory/UnsatisfiedDependencyException.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -63,6 +69,8 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settings.project.maven.repository.indices&quot;,
     &quot;spring.configuration.checksum&quot;: &quot;cc7edcea2af0cf0c362d6d5674df7645&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
@@ -132,7 +140,9 @@
       <workItem from="1679249454099" duration="16947000" />
       <workItem from="1679434378873" duration="2405000" />
       <workItem from="1679437970572" duration="7823000" />
-      <workItem from="1679511940021" duration="26681000" />
+      <workItem from="1679511940021" duration="28528000" />
+      <workItem from="1679742748814" duration="11240000" />
+      <workItem from="1679821262566" duration="619000" />
     </task>
     <task id="LOCAL-00001" summary="Modification au niveau de devoir4">
       <created>1678698250866</created>

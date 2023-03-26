@@ -8,7 +8,7 @@ public class MultiThreadServer extends Thread {
     int clientCount;
     public static void main(String[] args) {
            //Démarrage de thread
-        new MultiThreadServer().start();
+        new MultiThreadChatServer().start();
 
     }
 
@@ -53,7 +53,7 @@ class Conversation extends Thread{
             while (true){
                 String request = br.readLine();
                 System.out.println("Request => IP = "+ip+"\nRequest =>"+request);
-                String reponse="Size =>"+request.length();
+                String reponse="La taille de la chaine de caractere est  =>"+request.length();
                 //System.out.println(reponse);
                 pw.println(reponse);
             }

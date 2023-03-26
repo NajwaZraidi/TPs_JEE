@@ -19,7 +19,7 @@ public class SingleThreadServer {
 // Configurer au mode non bloqant
         serverSocketChannel.configureBlocking(false);
         //0.0.0.0 connexion de n'importe quel @ip
-        serverSocketChannel.bind(new InetSocketAddress("0.0.0.0",4444));
+        serverSocketChannel.bind(new InetSocketAddress("0.0.0.0",2001));
         //selector notifier le serverSocketChannel
        /* int validOps=serverSocketChannel.validOps();
         serverSocketChannel.register(selector, validOps);*/
@@ -67,7 +67,7 @@ public class SingleThreadServer {
         }
         String requete=new String(byteBuffer.array()).trim();
         System.out.println(String.format("Nouvelle requete %s du %s ",requete,socketChannel.getRemoteAddress()));
-        String response=new StringBuffer(requete).reverse().toString().toLowerCase();
+        String response=new StringBuffer(requete).reverse().toString().toLowerCase()+"\n";
         ByteBuffer byteBufferResponse=ByteBuffer.allocate(1024);
         byteBufferResponse.put(response.getBytes());
         byteBufferResponse.flip();

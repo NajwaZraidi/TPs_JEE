@@ -14,7 +14,7 @@
       <change afterPath="$PROJECT_DIR$/src/main/resources/templates/patients.html" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/templates/template.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Devoir2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Devoir2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Devoir2/src/main/java/ma/enset/bloking/MultiThreadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Devoir2/src/main/java/ma/enset/bloking/MultiThreadServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Devoir2/src/main/java/ma/enset/nobloking/SingleThreadServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Devoir2/src/main/java/ma/enset/nobloking/SingleThreadServer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ma/enset/Devoir4Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ma/enset/Devoir4Application.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
@@ -142,7 +142,7 @@
       <workItem from="1679437970572" duration="7823000" />
       <workItem from="1679511940021" duration="28528000" />
       <workItem from="1679742748814" duration="11240000" />
-      <workItem from="1679821262566" duration="619000" />
+      <workItem from="1679821262566" duration="1041000" />
     </task>
     <task id="LOCAL-00001" summary="Modification au niveau de devoir4">
       <created>1678698250866</created>
